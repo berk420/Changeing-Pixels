@@ -1,0 +1,16 @@
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\bin\Debug\netcoreapp3.1\blog subject 1.exe
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\bin\Debug\netcoreapp3.1\blog subject 1.deps.json
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\bin\Debug\netcoreapp3.1\blog subject 1.runtimeconfig.json
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\bin\Debug\netcoreapp3.1\blog subject 1.runtimeconfig.dev.json
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\bin\Debug\netcoreapp3.1\blog subject 1.dll
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\bin\Debug\netcoreapp3.1\blog subject 1.pdb
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog subject 1.csproj.AssemblyReference.cache
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog_subject_1.Form1.resources
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog subject 1.csproj.GenerateResource.cache
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog subject 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog subject 1.AssemblyInfoInputs.cache
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog subject 1.AssemblyInfo.cs
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog subject 1.csproj.CoreCompileInputs.cache
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog subject 1.dll
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog subject 1.pdb
+C:\Users\berkg\source\repos\blog subject 1\blog subject 1\obj\Debug\netcoreapp3.1\blog subject 1.genruntimeconfig.cache

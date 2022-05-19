@@ -1,0 +1,32 @@
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.exe
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.deps.json
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.runtimeconfig.json
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.runtimeconfig.dev.json
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.dll
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.pdb
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\blog_subject_1.Form1.resources
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.csproj.GenerateResource.cache
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.AssemblyInfoInputs.cache
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.AssemblyInfo.cs
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.csproj.CoreCompileInputs.cache
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.dll
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.pdb
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.genruntimeconfig.cache
+C:\Users\berkg\source\repos\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.csproj.AssemblyReference.cache
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.exe
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.deps.json
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.runtimeconfig.json
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.runtimeconfig.dev.json
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.dll
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\bin\Debug\netcoreapp3.1\pixel changing.pdb
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.csproj.AssemblyReference.cache
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\blog_subject_1.Form1.resources
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.csproj.GenerateResource.cache
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.AssemblyInfoInputs.cache
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.AssemblyInfo.cs
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.csproj.CoreCompileInputs.cache
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.dll
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.pdb
+C:\Users\berkg\Desktop\blog extra subject\blog subject 1\obj\Debug\netcoreapp3.1\pixel changing.genruntimeconfig.cache
